@@ -138,12 +138,12 @@ A RESTful API built with Laravel for managing inventory, sales, purchases, wareh
 ```bash
 git clone https://github.com/yourusername/inventory-management-system-api.git
 
-Database
+## Database
 
-Database name: inventory_management
+- Database name: inventory_management
 
-Make sure to create this database in your MySQL before running migrations.
+- Make sure to create this database in your MySQL before running migrations.
 
-Usage
-Use Postman or any API client to test endpoints
-Authentication required for most routes
+##Usage
+- Use Postman or any API client to test endpoints
+- Authentication required for most routes
