@@ -132,18 +132,5 @@ A RESTful API built with Laravel for managing inventory, sales, purchases, wareh
 - RESTful API
 - JWT or Sanctum for Authentication
 
-## Installation
 
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/inventory-management-system-api.git
 
-## Database
-
-- Database name: inventory_management
-
-- Make sure to create this database in your MySQL before running migrations.
-
-##Usage
-- Use Postman or any API client to test endpoints
-- Authentication required for most routes
