@@ -111,3 +111,39 @@ For any inquiries or issues, please contact [mdrakibulhaider.int@gmail.com](mail
 ---
 
 Thank you for using the Inventory Management System API!
+
+# Inventory Management System API
+
+A RESTful API built with Laravel for managing inventory, sales, purchases, warehouses, and financial operations.
+
+## Features
+
+- Product, Category, Brand, and Unit management
+- Sales and Purchase tracking
+- Warehouse management and product transfer
+- Revenue and Expense management
+- Role-based access control (Admin, Manager, Staff)
+- Reports and Dashboard statistics
+
+## Technologies Used
+
+- Laravel 10
+- MySQL
+- RESTful API
+- JWT or Sanctum for Authentication
+
+## Installation
+
+1. Clone the repository:
+```bash
+git clone https://github.com/yourusername/inventory-management-system-api.git
+
+Database
+
+Database name: inventory_management
+
+Make sure to create this database in your MySQL before running migrations.
+
+Usage
+Use Postman or any API client to test endpoints
+Authentication required for most routes
